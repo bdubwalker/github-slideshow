@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Go to the top of the mountain"
 Use the left arrow to go back!
